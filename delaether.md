@@ -11,7 +11,7 @@ Open your Aether app.
 Press on the settings icon to open the settings page.
 
 ### Step 3
-Press on Delete your data button.
+Press on Remove Account button.
 
 ### Step 4
 Type "DELETE" and press delete button.
